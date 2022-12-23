@@ -2,23 +2,26 @@
 [![GitHub issues](https://img.shields.io/github/issues/vshymanskyy/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/issues)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this **(click to open)**:
+Eng: This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this **(click to open)**:
+**Rus:** Этот репозиторий содержит баннеры Readme (и некоторые полезные документы), которые могут быть использованы проектами OSS для распространения информации, поддержки и помощи Украине в этой катастрофической ситуации. Вот так (нажмите, чтобы открыть):
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 ### 📢 [Updates from Ukrainian Open Source Community](/docs/CommunityUpdates.md)
 ### 🇷🇺 [Обращение к гражданам России](/docs/ToRussianPeople.md)
 
-## For Maintainers and Authors
+## Для авторов
 
 1. Spread the word. [Add one of the banners](/docs/AddBanner.md) to your **`README.md`**. Badges are also available
 2. Get rid of [Russian software and dependencies](/docs/Boycott.md)
 3. Deliver [a message](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/ToRussianPeople.md) to your users (esp. those in Russia) along with your next release. See [example here](https://github.com/vshymanskyy/StandWithUkraine/issues/4)
 4. Follow the [cyber safety guide](/docs/CyberSafety.md)
 
-## Projects that #StandWithUkraine
+## Проекты не поддерживающие Россию (#StandWithUkraine)
+// Translated / Переведено
+- [Awesome](https://github.com/sindresorhus/awesome) - Потрясающие списки на всевозможные интересные темы
 
-- [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+// Not-translated / Не переведено
 - [MacPaw](https://github.com/MacPaw) - A company behind prominent Mac software: CleanMyMac X, Setapp, Gemini 2, The Unarchiver
 - [AVA.js](https://github.com/avajs/ava) - A test runner for Node.js that lets you develop with confidence
 - [Wasm3](https://github.com/wasm3) - WebAssembly engine
@@ -75,5 +78,5 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) -  A  PHP library that aims to provide abstraction for generating various kinds of proxy classes
 - [FAR.js](https://github.com/farjs/farjs) - Cross-platform File and ARchive Manager in your terminal
-- [**...and more than 14000 others**](https://github.com/search?q=vshymanskyy%2FStandWithUkraine&type=codelegacy)
+- [**...и ещё больше 14000 репозиториев**](https://github.com/search?q=vshymanskyy%2FStandWithUkraine&type=codelegacy)
 
