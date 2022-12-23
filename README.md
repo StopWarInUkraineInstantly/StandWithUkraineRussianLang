@@ -3,6 +3,7 @@
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 Eng: This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this **(click to open)**:
+
 **Rus:** Этот репозиторий содержит баннеры Readme (и некоторые полезные документы), которые могут быть использованы проектами OSS для распространения информации, поддержки и помощи Украине в этой катастрофической ситуации. Вот так (нажмите, чтобы открыть):
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
