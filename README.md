@@ -21,11 +21,11 @@ Eng: This repository contains **Readme Banners** (and some useful docs) that can
 ## Проекты не поддерживающие Россию (#StandWithUkraine)
 // Translated / Переведено
 - [Awesome](https://github.com/sindresorhus/awesome) - Потрясающие списки на всевозможные интересные темы
+- [MacPaw](https://github.com/MacPaw) - Компания, стоящая за выдающимся программным обеспечением для Mac: CleanMyMac X, Setapp, Gemini 2, The Unarchiver.
+- [AVA.js](https://github.com/avajs/ava) - Средство запуска тестов для Node.js, позволяющее уверенно разрабатывать
+- [Wasm3](https://github.com/wasm3) - Движок WebAssembly
 
 // Not-translated / Не переведено
-- [MacPaw](https://github.com/MacPaw) - A company behind prominent Mac software: CleanMyMac X, Setapp, Gemini 2, The Unarchiver
-- [AVA.js](https://github.com/avajs/ava) - A test runner for Node.js that lets you develop with confidence
-- [Wasm3](https://github.com/wasm3) - WebAssembly engine
 - [Rete.js](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
